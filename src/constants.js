@@ -1,0 +1,19 @@
+// константы для обмены данными
+
+const NEWUSER = 'NEWUSER';
+const USERCONECTED = 'USERCONECTED';
+const MOVEBRACKET = 'MOVEBRACKET';
+const STARTPLAY = "STARTPLAY";
+const RESTARTBALL = 'RESTARTBALL';
+const WINNER = 'WINNER';
+const BUST = 'BUST';
+
+module.exports = {
+	NEWUSER,
+	USERCONECTED,
+	MOVEBRACKET,
+	STARTPLAY,
+	RESTARTBALL,
+	WINNER,
+	BUST
+};
